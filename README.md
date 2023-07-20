@@ -5,6 +5,9 @@ This documentation demostrates several use cases of [Stable Diffusion on SageMak
 * [Image to image](#image-to-image)
 * [Inpaint](#inpaint)
 * [Outpaint](#outpaint)  
+* [ControlNet - Canny](#canny)
+* [ControlNet - Depth](#depth)
+* [ControlNet - Openpose](#openpose)
 
 > **Warning**
 > All the models in this demo are only for internal education used not commercial.
