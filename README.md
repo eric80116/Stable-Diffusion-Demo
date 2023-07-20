@@ -177,7 +177,9 @@ Input image:
 ![canny_input](./images/input/controlnet-canny.png)
 
 Output image:
+
 ![canny_output_2](./images/output/controlnet-canny-2.png)
+
 ![canny_output_1](./images/output/controlnet-canny-1.png)
 
 
@@ -217,7 +219,9 @@ Input image:
 ![depth_input](./images/input/controlnet-depth.png)
 
 Output image:
+
 ![depth_output_1](./images/output/controlnet-depth-1.png)
+
 ![depth_output_2](./images/output/controlnet-depth-2.png)
 
 
@@ -257,5 +261,7 @@ Input image:
 ![openpose_input](./images/input/controlnet-openpose.png)
 
 Output image:
+
 ![openpose_output_1](./images/output/controlnet-openpose-1.png)
+
 ![openpose_output_2](./images/output/controlnet-openpose-2.png)
